@@ -6,18 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <img alt="logo" src="https://firebasestorage.googleapis.com/v0/b/portfolio-991b9.appspot.com/o/under_construction.gif?alt=media&token=ab184eaa-1e76-4827-8288-04d93f3214bd"/>
+        <h4>Under Construction</h4>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+
+          Divesh Singh portfolio
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
